@@ -18,7 +18,7 @@ Integração com Sistemas Contábeis: Oferece a possibilidade de integração co
 Nosso projeto é voltado para empresas de todos os portes, empreendedores individuais e profissionais autônomos que necessitam de uma solução eficiente para a geração de notas fiscais.
 
 # Receit elements:
-Company name
+Company name</br>
 Story Address
 The date/ timestamp
 Phone Number
