@@ -1,7 +1,6 @@
 # GITando - LAB 1
 
-# NotaGen
-## Membros: Diogenes, Marcelo, Arthur e André
+# NotaGen - Membros: Diogenes, Marcelo, Arthur e André
 
 ## Descrição do Projeto:
 Nosso projeto é uma aplicação desenvolvida com o propósito específico de simplificar o processo de geração de notas fiscais para vendas de produtos. Esta plataforma eficaz abrange informações essenciais, desde os dados pessoais do cliente até os detalhes públicos da loja, bem como todas as taxas e impostos legais pertinentes.
