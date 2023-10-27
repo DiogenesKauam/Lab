@@ -1,7 +1,6 @@
 # GITando - LAB 1
 
 # NotaGen
-### Members: Diogenes, Marcelo, Arthur e André
 
 ## Project Description:
 Our project is an application developed with the specific purpose of simplfying the process of generating receipts for product sales. This efficient platform covers essential information from client's personal information up to public details of the store, as well as all the legal taxes realted to the sale.
