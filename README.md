@@ -16,4 +16,4 @@ Cálculo Automático de Impostos: Calcula automaticamente os impostos de acordo 
 Integração com Sistemas Contábeis: Oferece a possibilidade de integração com sistemas contábeis para automatizar o registro e controle contábil.
 
 ## Público-Alvo:
-Nosso projeto é voltado para empresas de todos os portes, empreendedores individuais e profissionais autônomos que necessitam de uma solução eficiente para a geração de notas fiscais. Isso inclui:
+Nosso projeto é voltado para empresas de todos os portes, empreendedores individuais e profissionais autônomos que necessitam de uma solução eficiente para a geração de notas fiscais.
