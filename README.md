@@ -19,13 +19,13 @@ Nosso projeto é voltado para empresas de todos os portes, empreendedores indivi
 
 # Receit elements:
 Company name</br>
-Story Address
-The date/ timestamp
-Phone Number
-Costumer name
-Product purchased/ contracted service
-Total amount
-Price
-Tax
-Payment method
-Name of the service provider/attendant
+Story Address</br>
+The date/ timestamp</br>
+Phone Number</br>
+Costumer name</br>
+Product purchased/ contracted service</br>
+Total amount</br>
+Price</br>
+Tax</br>
+Payment method</br>
+Name of the service provider/attendant</br>
