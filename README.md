@@ -16,3 +16,16 @@ Integração com Sistemas Contábeis: Oferece a possibilidade de integração co
 
 ## Público-Alvo:
 Nosso projeto é voltado para empresas de todos os portes, empreendedores individuais e profissionais autônomos que necessitam de uma solução eficiente para a geração de notas fiscais.
+
+# Receit elements:
+Company name
+Story Address
+The date/ timestamp
+Phone Number
+Costumer name
+Product purchased/ contracted service
+Total amount
+Price
+Tax
+Payment method
+Name of the service provider/attendant
