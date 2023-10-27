@@ -19,14 +19,14 @@ Our main goal is to provida an intuitive and efficient tool that allows quick an
 Our project is meant for companies of all sizes, individual entrepreneurs and autonomous professionals who need an efficient solution to generate receipts.
 
 ## Receit elements:
-Company name</br>
-Store Address</br>
-The date/ timestamp</br>
-Phone Number</br>
-Costumer name</br>
-Product purchased/ contracted service</br>
-Total amount</br>
-Price</br>
-Tax</br>
-Payment method</br>
-Name of the service provider/attendant</br>
+- Company Name</br>
+- Store Address</br>
+- The date/ Timestamp</br>
+- Phone Number</br>
+- Costumer Name</br>
+- Product Purchased / Contracted Service</br>
+- Total Amount</br>
+- Price</br>
+- Tax</br>
+- Payment Method</br>
+- Name Of The Service Provider/Attendant</br>
