@@ -4,10 +4,10 @@
 ### Members: Diogenes, Marcelo, Arthur e André
 
 ## Project Description:
-Our project is an application developed with the specific purpose of simplfying the process of generating receipts for product sales. This efficient platform covers essential information, from client's personal information up to public details of the store, as well as all the legal taxes realted to the sale.
+Our project is an application developed with the specific purpose of simplfying the process of generating receipts for product sales. This efficient platform covers essential information from client's personal information up to public details of the store, as well as all the legal taxes realted to the sale.
 
 ## Goal:
-Our main goal is to provida an intuitive and efficient tool that allows quick and precise generation of receipts, ensuring conformity with the corresponding tac regulations. With "NotaGen", users can generate tax documents in a uncomplicated way, incorporating all the necessary information for a commercial transaction.
+Our main goal is to provide an intuitive and efficient tool that allows quick and precise generation of receipts, ensuring conformity with the corresponding tax regulations. With "NotaGen", users can generate tax documents in a uncomplicated way, incorporating all the necessary information for a commercial transaction.
 
 ## Project Functionality:
  - **Generating Receipts**: Allows user to create electronic receipts swiftly, filling all necessary fields.
@@ -18,7 +18,7 @@ Our main goal is to provida an intuitive and efficient tool that allows quick an
 ## Target Audience:
 Our project is meant for companies of all sizes, individual entrepreneurs and autonomous professionals who need an efficient solution to generate receipts.
 
-## Receit elements:
+## Receipt elements:
 - Company Name</br>
 - Store Address</br>
 - The date/ Timestamp</br>
