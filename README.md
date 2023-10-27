@@ -1,2 +1,2 @@
 # GITando
-Membros: Diogenes, Marcelo, Arthur e André
+## Membros: Diogenes, Marcelo, Arthur e André
