@@ -10,9 +10,9 @@ Our main goal is to provida an intuitive and efficient tool that allows quick an
 
 ## Project Functionality:
  - **Generating Receipts**: Allows user to create electronic receipts swiftly, filling all necessary fields.
- - Safe Storage**: The recipst are generated and stored safely to allow easy access and future references.
- - Automatic Tribute Estimation**: Automatically calculate the tribute rate according to the tax configuratons and product category.
- - Integration with Accounting Systems**: Offers the possibility of integration with accounting systems to automate accounting register and control.
+ - **Safe Storage**: The recipst are generated and stored safely to allow easy access and future references.
+ - **Automatic Tribute Estimation**: Automatically calculate the tribute rate according to the tax configuratons and product category.
+ - **Integration with Accounting Systems**: Offers the possibility of integration with accounting systems to automate accounting register and control.
 
 ## Target Audience:
 Our project is meant for companies of all sizes, individual entrepreneurs and autonomous professionals who need an efficient solution to generate receipts.
