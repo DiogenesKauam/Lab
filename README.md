@@ -1,2 +1,2 @@
 # GITando - LAB 1
-## Membros: Diogenes, Marcelo, Arthur e André
+### Membros: Diogenes, Marcelo, Arthur e André
