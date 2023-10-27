@@ -19,7 +19,7 @@ Nosso projeto é voltado para empresas de todos os portes, empreendedores indivi
 
 ## Receit elements:
 Company name</br>
-Story Address</br>
+Store Address</br>
 The date/ timestamp</br>
 Phone Number</br>
 Costumer name</br>
